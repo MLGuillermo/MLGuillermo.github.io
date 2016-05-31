@@ -1,0 +1,110 @@
+
+nav a{
+  border: 1px solid Crimson;
+  color: white;
+  font-size: 15px ;
+  text-decoration:none;
+  text-shadow: none;
+  width: 100px;
+  align-items: center;
+  border-radius: 5px;
+  padding: 15px;
+  box-shadow:0 1px 1px Crimson, inset 0px 1px 0 DeepPink;
+  margin-right: auto;
+  margin-left: 1px;
+  margin-bottom: 10px;
+  position: relative;
+  left: -22px;
+  margin-left: 20px;
+  margin-bottom: 100px;
+  float: left;
+  background-color: rgb(255, 0,0);
+  background-image: -webkit-linear-gradient(Crimson, DeepPink);
+  background-image: -moz-linear-gradient( Crimson, DeepPink);
+  background-image: -o-linear-gradient( Crimson, DeepPink);
+  background-image: linear-gradient( Crimson, DeepPink);
+}
+
+#great {
+  font-size: 30px;
+  font-family:'Anton', sans-serif;
+  width: 500px;
+  top: 60px;
+  position: relative;
+  z-index: 5;
+  color: White;
+  left: 10px;
+ 
+}
+
+#good {
+  font-size: 30px;
+  font-family: 'Anton', sans-serif;
+  width: 500px;
+  top: 60px;
+  position: relative;
+  z-index: 5;
+  color: White;
+  left: 10px;
+}
+
+
+body {
+  background-image: url("http://www.lovethispic.com/uploaded_images/233498-Stained-Glass-Animated-Gif.gif");
+  background-position: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+#para {
+  font-size: 30px;
+  font-family:'Anton', sans-serif;
+  width: 500px;
+  top: 60px;
+  position: relative;
+  z-index: 5;
+  color: White ;
+  left: 10px;
+ 
+}
+
+#welcome {
+  font-size: 30px;
+  font-family:'Anton', sans-serif;
+  width: 500px;
+  top: 60px;
+  position: relative;
+  z-index: 5;
+  color: White ;
+  left: 10px;
+  
+}
+
+#lot {
+  font-size: 30px;
+  font-family:'Anton', sans-serif;
+  width: 500px;
+  top: 60px;
+  position: relative;
+  z-index: 5;
+  color: White ;
+  left: 10px;
+  
+}
+header {
+  width: 1600px;
+  height: 126opx;
+}
+
+#flower{
+  width: 500px;
+  height: 420px;
+}
+ #dots { 
+   width: 500px;
+   height: 420px;
+ }
+
